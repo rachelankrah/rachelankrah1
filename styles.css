@@ -1,0 +1,9 @@
+body {
+
+    color: BLACK;
+    background-color: WHITE;
+    font-family: monospace;
+    text-align: center;
+}
+.content li {margin-left: 550px;}
+.content ul {text-align: justify;}
